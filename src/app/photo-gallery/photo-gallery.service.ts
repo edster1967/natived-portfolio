@@ -9,9 +9,9 @@ export class PhotoGalleryService {
   getACGalleryImages() {
     this.galleryImages = [
       {
-        small: 'assets/img/ac/ac_eln_1.jpg',
-        medium: 'assets/img/ac/ac_eln_1.jpg',
-        big: 'assets/img/ac/ac_eln_big_1.jpg'
+        small: './assets/img/ac/ac_eln_1.jpg',
+        medium: './assets/img/ac/ac_eln_1.jpg',
+        big: './assets/img/ac/ac_eln_big_1.jpg'
       },
       {
         small: 'assets/img/ac/ac_eln_2.jpg',

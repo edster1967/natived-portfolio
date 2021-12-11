@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
-To see the demo click here - https://eln-portfolio.firebaseapp.com/home
+To see the demo click here - https://edster1967.github.io/natived-portfolio/
 
 ## Development server
 
